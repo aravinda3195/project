@@ -1,0 +1,34 @@
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+  
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 0px;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-weight: bold;
+  }
+  
+  label {
+    display: block;
+    margin: 5px 0;
+  }
+  
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  
